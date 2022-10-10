@@ -1,7 +1,7 @@
 /**
  * 1 Escribe un programa que calcule el área de un rectángulo.
  * 
- * @author Javier Miguel Martín Gallardo
+ * @author Jotaeme
  */
 
 import java.util.Scanner;

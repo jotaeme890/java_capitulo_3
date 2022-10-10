@@ -1,7 +1,7 @@
 /**
  * 1 Escribe un programa que calcule el total de una factura a partir de la base imponible.
  * 
- * @author Javier Miguel Martín Gallardo
+ * @author Jotaeme
  */
 
 import java.util.Scanner;

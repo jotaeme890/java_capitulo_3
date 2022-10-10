@@ -11,9 +11,9 @@ public class Ejercicio9 {
     public static void main (String args []){
         Scanner sc = new Scanner(System.in);
         System.out.println("Dime la altura del cono: ");
-        double h = sc.nextInt();
+        double h = sc.nextDouble();
         System.out.println("Dime el radio del cono: ");
-        double r = sc.nextInt();
+        double r = sc.nextDouble();
         double partido= (1.0/3.0);
 
         System.out.print("El volumen del cono es: " + (partido*Math.PI*(r*r)*h));

@@ -10,7 +10,7 @@ public class Ejercicio8 {
     public static void main (String args []){
         Scanner sc = new Scanner(System.in);
         System.out.println("¿Cuántas horas has trabajado esta semana?");
-        float n = sc.nextInt();
+        float n = sc.nextFloat();
 
         
         System.out.print("Tu salario semanal es de: " + n*12 +" euros");

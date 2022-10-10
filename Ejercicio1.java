@@ -1,3 +1,9 @@
+/**
+ * 1 Multiplicar 2 números y escribirlos por pantalla
+ * 
+ * @author Javier Miguel Martín Gallardo
+ */
+
 import java.util.Scanner;
 
 public class Ejercicio1{

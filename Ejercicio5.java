@@ -10,9 +10,9 @@ public class Ejercicio5 {
     public static void main (String args []){
         Scanner sc = new Scanner(System.in);
         System.out.print("Dime la altura del rectángulo: ");
-        float n = sc.nextInt();
+        float n = sc.nextFloat();
         System.out.print("Dime la base del rectángulo: ");
-        float c = sc.nextInt();
+        float c = sc.nextFloat();
         
         System.out.println("El área de ese rectángulo: "+ c*n);
 

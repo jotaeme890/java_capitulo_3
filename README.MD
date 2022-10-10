@@ -1,1 +1,1 @@
-#This is my 3 repository of my classwork.
+# Hello, this is my third repository of my classwork.

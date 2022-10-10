@@ -1,7 +1,7 @@
 /**
  * 1 Convertor de euros a pesetas, cogiendo los euros por el teclado
  * 
- * @author Javier Miguel Martín Gallardo
+ * @author Jotaeme
  */
 
 import java.util.Scanner;

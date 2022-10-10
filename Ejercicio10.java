@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class Ejercicio10 {
     public static void main (String args []){
         Scanner sc = new Scanner(System.in);
-        System.out.print("Dime la Mb que quieres pasasr a kb: ");
+        System.out.print("Dime la Mb que quieres pasasr a Kb: ");
         float n = sc.nextInt();
         float c = n*1000;
 

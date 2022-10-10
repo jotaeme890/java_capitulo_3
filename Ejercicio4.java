@@ -10,9 +10,9 @@ public class Ejercicio4 {
     public static void main (String args []){
         Scanner sc = new Scanner(System.in);
         System.out.print("Dime un número: ");
-        float n = sc.nextInt();
+        float n = sc.nextFloat();
         System.out.print("Dime otro número: ");
-        float c = sc.nextInt();
+        float c = sc.nextFloat();
         
         System.out.println("Dado esos números: ");
         System.out.println("La suma es: "+ (n+c));

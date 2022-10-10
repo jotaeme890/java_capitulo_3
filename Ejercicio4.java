@@ -1,7 +1,7 @@
 /**
  * 1 Escribe un programa que sume, reste, multiplique y divida dos números introducidos por teclado.
  * 
- * @author Javier Miguel Martín Gallardo
+ * @author Jotaeme
  */
 
 import java.util.Scanner;

@@ -15,5 +15,6 @@ public class Ejercicio1{
         int c = sc.nextInt();
 
         System.out.print("La multiplicación es: "+ n*c);
+        sc.close();
     }
 }

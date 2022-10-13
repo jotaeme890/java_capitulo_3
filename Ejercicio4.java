@@ -17,8 +17,11 @@ public class Ejercicio4 {
         System.out.println("Dado esos números: ");
         System.out.println("La suma es: "+ (n+c));
         System.out.println("La resta es: " + (n-c));
-        System.out.println("La multiplicación es:"+ (n*c));
-        System.out.println("La división es: "+(n/c));
+        System.out.println("La multiplicación es: "+ (n*c));
+        if (c!=0){
+            System.out.println("La división es: "+(n/c));
+        } else 
+            System.out.println("Dado esos números no se puede hacer la división");
 
         sc.close();
     }

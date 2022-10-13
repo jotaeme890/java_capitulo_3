@@ -1,7 +1,7 @@
 /**
- * 1 Escribe un programa que calcule el volumen de un cono según la fórmula V = 1|3πr2h
+ * 9 Escribe un programa que calcule el volumen de un cono según la fórmula V = 1|3πr2h
  * 
- * @author Jotaeme
+ * @author jotaeme
  */
 
 import java.util.Scanner;

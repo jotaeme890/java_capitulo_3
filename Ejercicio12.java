@@ -1,9 +1,9 @@
 /**
- * 1 Realiza un programa que calcule la nota que hace falta sacar en el segundo examen de la asignatura Programación 
+ * 12 Realiza un programa que calcule la nota que hace falta sacar en el segundo examen de la asignatura Programación 
  * para obtener la media deseada. Hay que tener en cuenta que la nota del primer examen cuenta el 40% y 
  * la delsegundo examen un 60%.
  * 
- * @author Jotaeme
+ * @author jotaeme
  */
 
 import java.util.Scanner;

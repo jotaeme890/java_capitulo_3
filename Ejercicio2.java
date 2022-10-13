@@ -20,7 +20,7 @@ public class Ejercicio2 {
         double n = sc.nextDouble();
         double pesetas = 166.38;
         
-        System.out.printf("%.2f son  %d pesetas",n,(int)(n*pesetas));
+        System.out.printf("%.2f son %d pesetas",n,(int)(n*pesetas));
         
         sc.close();
     }

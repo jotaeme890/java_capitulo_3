@@ -1,7 +1,7 @@
 /**
  * 1 Multiplicar 2 números y escribirlos por pantalla
  * 
- * @author Jotaeme
+ * @author jotaeme
  */
 
 import java.util.Scanner;

@@ -1,7 +1,7 @@
 /**
- * 1 Escribe un programa que calcule el área de un triángulo.
+ * 6 Escribe un programa que calcule el área de un triángulo.
  * 
- * @author Jotaeme
+ * @author jotaeme
  */
 
 import java.util.Scanner;

@@ -1,7 +1,7 @@
 /**
- * 1 Realiza un conversor de Mb a Kb.
+ * 10 Realiza un conversor de Mb a Kb.
  * 
- * @author Jotaeme
+ * @author jotaeme
  */
 
 import java.util.Scanner;

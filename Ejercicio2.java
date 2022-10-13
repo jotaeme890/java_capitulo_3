@@ -4,6 +4,13 @@
  * @author Jotaeme
  */
 
+/**
+ * 2 Realiza un conversor de euros a pesetas. La cantidad de euros que se quiere 
+ * convertir debe ser introducida por teclado.
+ * 
+ * @author jotaeme
+ */
+
 import java.util.Scanner;
 
 public class Ejercicio2 {
@@ -13,7 +20,7 @@ public class Ejercicio2 {
         double n = sc.nextDouble();
         double pesetas = 166.38;
         
-        System.out.print("La cantidad de "+ n + " euros en pesetas, son: " + n*pesetas);
+        System.out.printf("%.2f son  %d pesetas",n,(int)(n*pesetas));
         
         sc.close();
     }
